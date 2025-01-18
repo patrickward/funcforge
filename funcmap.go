@@ -1,4 +1,4 @@
-package funcmap
+package funcforge
 
 import (
 	"html/template"
